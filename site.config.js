@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Re monita\'s home',
   domain: 'https://www.notion.so/Personal-Home-d7c3d71f8c6847b8ae6855aac540b959',
-  author: 'Xiaozhupinli',
+  author: 'PumuMindu',
 
   // open graph metadata (optional)
   description: 'Example site description',
